@@ -1,0 +1,13 @@
+[75158:775:0812/045209.190626:INFO:CONSOLE(1)] "%c ZenMate VPN - The best free VPN color:#008ACD; font-size: 32px", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.210316:INFO:CONSOLE(1)] "-- connection disabled", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.214647:INFO:CONSOLE(1)] "setIconState   [object Object] false false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.221296:INFO:CONSOLE(1)] "-- connection disabled", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.224737:INFO:CONSOLE(1)] "setIconState   [object Object] true false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.269129:INFO:CONSOLE(1)] "setIconState   [object Object] true false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.847784:INFO:CONSOLE(1)] "setIconState   [object Object] true false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.852518:INFO:CONSOLE(1)] "setIconState   [object Object] true false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045209.857229:INFO:CONSOLE(1)] "setIconState   [object Object] true false", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js (1)
+[75158:775:0812/045210.478839:INFO:CONSOLE(0)] "Unchecked runtime.lastError: No tab with id: 2.", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/_generated_background_page.html (0)
+[75158:775:0812/045210.478991:INFO:CONSOLE(0)] "Error handling response: TypeError: Cannot read property 'url' of undefined
+    at chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/background.js:1:47568", source: chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/_generated_background_page.html (0)
+[75158:775:0812/045210.579456:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
